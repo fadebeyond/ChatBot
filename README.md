@@ -1,4 +1,4 @@
 # ChatBot
-#use this command first befire using.
+#use this command first before using.
 pip install ChatterBot
 #important to feed info 
